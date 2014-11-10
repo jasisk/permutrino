@@ -1,0 +1,17 @@
+{
+  "name": "permutrino",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jean-Charles Sisk <jasisk@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0",
+    "diff": "^1.0.8",
+    "minimist": "^1.1.0",
+    "rimraf": "^2.2.8"
+  }
+}

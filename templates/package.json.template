@@ -1,0 +1,8 @@
+{
+  "name": "robot-repo",
+  "version": "1.0.0",
+  "description": "a module for permutron. all hail permutron.",
+  "main": "index.js",
+  "author": "Calculon <calculon@omnicronpersia8.com>",
+  "license": "ISC"
+}
